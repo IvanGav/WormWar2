@@ -1,4 +1,15 @@
-Graph support: you can make cards into a graph. If you manage to place 
- a new card so that it connects to a differnt card, they will connect and form a graph. 
- There is a drawback. You can only connect to 2 cards at a time. 
- It's not possible to connect 3 branches at a time.
+# Tree Terror Three
+### also known as WW2 (Worm War 2)
+
+A stupid game and an even stupider digital version (it's bad, and the code is even worse).
+
+You can:
+- Build trees
+- Place cards
+- Get defeated
+- Lose the game
+- Cry
+
+You can't:
+- Make cool graphs
+- Have fun
